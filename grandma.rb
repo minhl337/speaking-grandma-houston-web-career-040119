@@ -13,7 +13,7 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-def speak_to_grandma(string)
-  if string===string.upcase
+def speak_to_grandma(gma)
+  if gma===gma.upcase
     return 
 end
